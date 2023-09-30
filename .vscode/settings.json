@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e2367e64-1a8e-4a8a-b29b-03f3dc39b8b2/resourceGroups/ucaba81_rg_2594/providers/Microsoft.Web/sites/witty-pebble-eb0186d93d2b4088a049386c4ba5a5f3",
+    "appService.deploySubpath": "."
+}
